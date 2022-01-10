@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Welcome to my JS Page.</title>
+		<meta charset="utf-8">
+		<nav>
+		</nav>
+	</head>
+	<body>
+		<main></main>
+		<script src="Basic_JavaScript_1.js"></script>
+		<button onclick="My_First_Function()">
+			Click me!
+		</button>
+		<p id="Irish"></p>
+		<script src="Basic_JavaScript_Function_1.js"></script>
+		<img></img>
+		<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+		<p>
+			<font color="purple" face="Roboto" size="4"><b>This is my purple text</b></font>
+		</p>
+		<p>
+			<font color="#0092fe" face="Arial" size="5"><i>This is a cyan color text</i></font>
+		</p>
+		<p>
+			<font color="#8389ab" face="Calibri" size="6"><u>This is an Unknown color text</u></font>
+		</p>
+		<h1></h1>
+	</body>
+	<footer>
+	</footer>
+</html>
